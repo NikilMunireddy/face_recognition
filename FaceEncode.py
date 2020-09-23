@@ -28,3 +28,6 @@ def get_face_names():
         known_face_names.append(facenames.split('.')[0])
     file.close()
     return known_face_names
+    
+ #just an practice
+ 
