@@ -29,5 +29,5 @@ def get_face_names():
     file.close()
     return known_face_names
     
- #just an practice
+ #just an practice exanple
  
